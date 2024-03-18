@@ -1,0 +1,31 @@
+body { 
+	margin: auto;
+	max-width: 1080px;
+	padding-top: 30px;
+	font-family: Trebuchet MS, sans-serif;
+}
+#current{
+	width: 200px;
+	padding: 10px;
+	font-family: Trebuchet MS, sans-serif;
+	background: rgb(155, 160, 163);
+}
+#button{
+	background-color: white;
+	position:absolute; top:0; right:0;
+	border-radius: 3px;
+	border: white;
+}
+#button:hover{
+	background-color: grey;
+  	color: white;
+}
+#inputField{
+	border-color: grey;
+	border-radius: 20px;
+	padding: 7px;
+}
+#submit{
+	padding: 7px;
+	border-radius: 5px;
+}
